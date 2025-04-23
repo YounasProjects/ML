@@ -1,0 +1,2103 @@
+[
+    {
+      "question": "What is Machine Learning (ML)?",
+      "options": [
+        "A way to store data",
+        "A type of AI that enables systems to learn from data without explicit programming",
+        "A database management system",
+        "A search engine algorithm"
+      ],
+      "answer": "A type of AI that enables systems to learn from data without explicit programming"
+    },
+    {
+      "question": "According to Arthur Samuel, machine learning is:",
+      "options": [
+        "Writing more efficient code",
+        "Giving computers the ability to learn without being explicitly programmed",
+        "Predicting data with no errors",
+        "Automating scripts using rules"
+      ],
+      "answer": "Giving computers the ability to learn without being explicitly programmed"
+    },
+    {
+      "question": "Which statement best describes Tom Mitchell's definition of ML?",
+      "options": [
+        "ML learns only from labeled data",
+        "Learning improves when rules are predefined",
+        "Learning improves with experience over time on a specific task measured by performance",
+        "ML always requires feedback"
+      ],
+      "answer": "Learning improves with experience over time on a specific task measured by performance"
+    },
+    {
+      "question": "Which of the following is an application of machine learning?",
+      "options": [
+        "Face recognition",
+        "Spreadsheet formatting",
+        "Manual data entry",
+        "Keyboard shortcuts"
+      ],
+      "answer": "Face recognition"
+    },
+    {
+      "question": "What is NOT a machine learning application?",
+      "options": [
+        "Fraud detection",
+        "Product recommendation",
+        "File compression",
+        "Spam filtering"
+      ],
+      "answer": "File compression"
+    },
+    {
+      "question": "What is one reason ML is important today?",
+      "options": [
+        "It can delete unused files automatically",
+        "It handles and learns from large datasets automatically",
+        "It prevents internet failures",
+        "It designs hardware"
+      ],
+      "answer": "It handles and learns from large datasets automatically"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of machine learning?",
+      "options": [
+        "Automation",
+        "Complex decision-making",
+        "Manual programming for all decisions",
+        "Scalability"
+      ],
+      "answer": "Manual programming for all decisions"
+    },
+    {
+      "question": "Which of the following is NOT a type of machine learning?",
+      "options": [
+        "Supervised learning",
+        "Unsupervised learning",
+        "Descriptive learning",
+        "Reinforcement learning"
+      ],
+      "answer": "Descriptive learning"
+    },
+    {
+      "question": "What kind of learning uses labeled data to predict outcomes?",
+      "options": [
+        "Unsupervised",
+        "Supervised",
+        "Reinforcement",
+        "Semi-supervised"
+      ],
+      "answer": "Supervised"
+    },
+    {
+      "question": "Which type of ML does NOT use labeled data?",
+      "options": [
+        "Unsupervised learning",
+        "Supervised learning",
+        "Semi-supervised learning",
+        "Active learning"
+      ],
+      "answer": "Unsupervised learning"
+    },
+    {
+      "question": "Which learning type combines labeled and unlabeled data?",
+      "options": [
+        "Reinforcement",
+        "Supervised",
+        "Semi-supervised",
+        "Clustering"
+      ],
+      "answer": "Semi-supervised"
+    },
+    {
+      "question": "What type of learning uses reward signals to improve decision-making?",
+      "options": [
+        "Unsupervised learning",
+        "Reinforcement learning",
+        "Regression",
+        "K-means clustering"
+      ],
+      "answer": "Reinforcement learning"
+    },
+    {
+      "question": "Predicting house prices is an example of:",
+      "options": [
+        "Classification",
+        "Regression",
+        "Clustering",
+        "Reinforcement"
+      ],
+      "answer": "Regression"
+    },
+    {
+      "question": "Spam detection is an example of which ML task?",
+      "options": [
+        "Classification",
+        "Clustering",
+        "Regression",
+        "Association"
+      ],
+      "answer": "Classification"
+    },
+    {
+      "question": "K-Means is an algorithm used in:",
+      "options": [
+        "Supervised learning",
+        "Reinforcement learning",
+        "Unsupervised learning",
+        "Regression"
+      ],
+      "answer": "Unsupervised learning"
+    },
+    {
+      "question": "Which algorithm is NOT used in supervised learning?",
+      "options": [
+        "Decision Trees",
+        "K-Means",
+        "Linear Regression",
+        "Support Vector Machines"
+      ],
+      "answer": "K-Means"
+    },
+    {
+      "question": "In supervised learning, what is a \"label\"?",
+      "options": [
+        "The known output or target value",
+        "A formatting rule",
+        "A file name",
+        "A feature"
+      ],
+      "answer": "The known output or target value"
+    },
+    {
+      "question": "What is the goal of training a model?",
+      "options": [
+        "To store data",
+        "To reduce memory use",
+        "To learn patterns and make predictions",
+        "To clean the dataset"
+      ],
+      "answer": "To learn patterns and make predictions"
+    },
+    {
+      "question": "What is the purpose of a loss function?",
+      "options": [
+        "Encrypt the output",
+        "Compare features",
+        "Measure difference between predictions and true values",
+        "Shuffle the dataset"
+      ],
+      "answer": "Measure difference between predictions and true values"
+    },
+    {
+      "question": "What is the role of testing data?",
+      "options": [
+        "Improve training",
+        "Add labels",
+        "Evaluate model's ability to generalize to new data",
+        "Generate new features"
+      ],
+      "answer": "Evaluate model's ability to generalize to new data"
+    },
+    {
+      "question": "What happens during model training?",
+      "options": [
+        "The model is evaluated",
+        "The model learns from the training dataset",
+        "The model is deployed",
+        "Features are extracted"
+      ],
+      "answer": "The model learns from the training dataset"
+    },
+    {
+      "question": "What is overfitting in machine learning?",
+      "options": [
+        "Under-training a model",
+        "Learning the training data too well, including noise",
+        "A good generalization",
+        "Ignoring the loss function"
+      ],
+      "answer": "Learning the training data too well, including noise"
+    },
+    {
+      "question": "Underfitting occurs when:",
+      "options": [
+        "Model overuses GPU",
+        "Model is too simple to learn patterns",
+        "Training time is too long",
+        "Dataset is encrypted"
+      ],
+      "answer": "Model is too simple to learn patterns"
+    },
+    {
+      "question": "What is the first step in the ML workflow?",
+      "options": [
+        "Data Collection",
+        "Model Deployment",
+        "Model Tuning",
+        "Feature Selection"
+      ],
+      "answer": "Data Collection"
+    },
+    {
+      "question": "What step comes after training in the ML process?",
+      "options": [
+        "Data cleaning",
+        "Model evaluation",
+        "Data visualization",
+        "Label creation"
+      ],
+      "answer": "Model evaluation"
+    },
+    {
+      "question": "Model tuning involves:",
+      "options": [
+        "Rewriting the dataset",
+        "Deleting mislabeled data",
+        "Optimizing hyperparameters",
+        "Normalizing all features"
+      ],
+      "answer": "Optimizing hyperparameters"
+    },
+    {
+      "question": "What is a key trait of a machine learning model?",
+      "options": [
+        "It memorizes past data",
+        "It only works with structured data",
+        "It generalizes from past data to unseen scenarios",
+        "It requires explicit programming for every task"
+      ],
+      "answer": "It generalizes from past data to unseen scenarios"
+    },
+    {
+      "question": "What does it mean if a model generalizes well?",
+      "options": [
+        "It only performs well on training data",
+        "It performs accurately on new, unseen data",
+        "It has high complexity",
+        "It requires minimal computational resources"
+      ],
+      "answer": "It performs accurately on new, unseen data"
+    },
+    {
+      "question": "In Tom Mitchell's definition of ML, what does \"P\" stand for?",
+      "options": [
+        "Precision",
+        "Probability",
+        "Process",
+        "Performance measure"
+      ],
+      "answer": "Performance measure"
+    },
+    {
+      "question": "Which of the following best describes an ML \"model\"?",
+      "options": [
+        "A representation of learned relationships between input and output",
+        "A set of predefined rules",
+        "A way to store and retrieve data",
+        "A computer program that executes specific tasks"
+      ],
+      "answer": "A representation of learned relationships between input and output"
+    },
+    {
+      "question": "Which learning type can work without any feedback or labels?",
+      "options": [
+        "Unsupervised learning",
+        "Supervised learning",
+        "Reinforcement learning",
+        "Semi-supervised learning"
+      ],
+      "answer": "Unsupervised learning"
+    },
+    {
+      "question": "Semi-supervised learning is useful when:",
+      "options": [
+        "Labeled data is abundant",
+        "Unlabeled data is scarce",
+        "Labeled data is limited but unlabeled data is abundant",
+        "There is no data available"
+      ],
+      "answer": "Labeled data is limited but unlabeled data is abundant"
+    },
+    {
+      "question": "What makes reinforcement learning different from other types?",
+      "options": [
+        "It only uses labeled data",
+        "It learns by interacting with the environment using rewards and penalties",
+        "It is used for clustering data",
+        "It predicts continuous values"
+      ],
+      "answer": "It learns by interacting with the environment using rewards and penalties"
+    },
+    {
+      "question": "Which of the following would typically be used in reinforcement learning?",
+      "options": [
+        "Support Vector Machines",
+        "K-Nearest Neighbors",
+        "Principal Component Analysis",
+        "Deep Q Networks (DQN)"
+      ],
+      "answer": "Deep Q Networks (DQN)"
+    },
+    {
+      "question": "Classification differs from regression because:",
+      "options": [
+        "It predicts continuous values",
+        "It predicts categories, not continuous values",
+        "It uses unlabeled data",
+        "It involves time-series data"
+      ],
+      "answer": "It predicts categories, not continuous values"
+    },
+    {
+      "question": "Which of these would be a classification task?",
+      "options": [
+        "Predicting stock prices",
+        "Estimating house values",
+        "Diagnosing a disease as \"present\" or \"absent\"",
+        "Forecasting temperature"
+      ],
+      "answer": "Diagnosing a disease as \"present\" or \"absent\""
+    },
+    {
+      "question": "Which algorithm is best suited for predicting numeric values?",
+      "options": [
+        "Linear Regression",
+        "Logistic Regression",
+        "Decision Trees",
+        "Support Vector Machines"
+      ],
+      "answer": "Linear Regression"
+    },
+    {
+      "question": "Principal Component Analysis (PCA) is used for:",
+      "options": [
+        "Classification",
+        "Regression",
+        "Dimensionality reduction",
+        "Clustering"
+      ],
+      "answer": "Dimensionality reduction"
+    },
+    {
+      "question": "The goal of clustering is to:",
+      "options": [
+        "Group similar data points together",
+        "Predict future outcomes",
+        "Classify data into predefined categories",
+        "Identify outliers in a dataset"
+      ],
+      "answer": "Group similar data points together"
+    },
+    {
+      "question": "Which of the following is NOT an unsupervised learning algorithm?",
+      "options": [
+        "K-Means",
+        "Hierarchical Clustering",
+        "DBSCAN",
+        "Support Vector Machines"
+      ],
+      "answer": "Support Vector Machines"
+    },
+    {
+      "question": "What are features in a dataset?",
+      "options": [
+        "The output or dependent variables",
+        "The input variables or independent variables",
+        "The algorithms used for training",
+        "The evaluation metrics"
+      ],
+      "answer": "The input variables or independent variables"
+    },
+    {
+      "question": "Labels are only present in:",
+      "options": [
+        "Unsupervised learning",
+        "Reinforcement learning",
+        "Supervised learning",
+        "All types of machine learning"
+      ],
+      "answer": "Supervised learning"
+    },
+    {
+      "question": "What does training a model involve?",
+      "options": [
+        "Cleaning the dataset",
+        "Splitting data into training and testing sets",
+        "Evaluating model performance",
+        "Feeding data into an algorithm to learn patterns"
+      ],
+      "answer": "Feeding data into an algorithm to learn patterns"
+    },
+    {
+      "question": "When should a dataset be split into train and test sets?",
+      "options": [
+        "To avoid evaluating on seen data and test generalization",
+        "To increase the size of the dataset",
+        "To apply different algorithms to each set",
+        "It is not necessary to split the dataset"
+      ],
+      "answer": "To avoid evaluating on seen data and test generalization"
+    },
+    {
+      "question": "What could be a symptom of overfitting?",
+      "options": [
+        "Low training accuracy, high test accuracy",
+        "Both high training and test accuracy",
+        "High training accuracy, low test accuracy",
+        "Both low training and test accuracy"
+      ],
+      "answer": "High training accuracy, low test accuracy"
+    },
+    {
+      "question": "Which model evaluation metric is best for imbalanced datasets?",
+      "options": [
+        "Accuracy",
+        "F1 Score",
+        "Precision",
+        "Recall"
+      ],
+      "answer": "F1 Score"
+    },
+    {
+      "question": "Which metric measures the proportion of correctly identified positive cases?",
+      "options": [
+        "Precision",
+        "Accuracy",
+        "Specificity",
+        "Recall"
+      ],
+      "answer": "Recall"
+    },
+    {
+      "question": "A model with both high precision and low recall means:",
+      "options": [
+        "It predicts fewer positives, but with high accuracy",
+        "It predicts many positives, but with low accuracy",
+        "It has a balanced performance",
+        "It is overfitting the data"
+      ],
+      "answer": "It predicts fewer positives, but with high accuracy"
+    },
+    {
+      "question": "Which phase includes one-hot encoding and normalization?",
+      "options": [
+        "Model training",
+        "Model evaluation",
+        "Data preprocessing",
+        "Feature selection"
+      ],
+      "answer": "Data preprocessing"
+    },
+    {
+      "question": "What is the output of training a machine learning model?",
+      "options": [
+        "A set of rules",
+        "A trained model that can make predictions",
+        "Cleaned and preprocessed data",
+        "Evaluation metrics"
+      ],
+      "answer": "A trained model that can make predictions"
+    },
+    {
+      "question": "Which step comes right before model deployment?",
+      "options": [
+        "Data collection",
+        "Feature engineering",
+        "Model training",
+        "Model tuning and validation"
+      ],
+      "answer": "Model tuning and validation"
+    },
+    {
+      "question": "What is the primary purpose of linear regression in machine learning?",
+      "options": [
+        "To predict continuous numerical values",
+        "To classify data into categories",
+        "To group similar data points",
+        "To reduce the dimensionality of data"
+      ],
+      "answer": "To predict continuous numerical values"
+    },
+    {
+      "question": "What is an example of a real-world linear regression task?",
+      "options": [
+        "Image recognition",
+        "Spam detection",
+        "Predicting house prices based on the number of rooms",
+        "Customer segmentation"
+      ],
+      "answer": "Predicting house prices based on the number of rooms"
+    },
+    {
+      "question": "In linear regression, what are the inputs called?",
+      "options": [
+        "Labels",
+        "Attributes",
+        "Predictions",
+        "Outcomes"
+      ],
+     "answer": "Attributes"
+    },
+    {
+      "question": "What is the output we want to predict in linear regression?",
+      "options": [
+        "Features",
+        "Slope",
+        "Intercept",
+        "Target"
+      ],
+      "answer": "Target"
+    },
+    {
+      "question": "What is the goal of linear regression in terms of data points?",
+      "options": [
+        "To draw a line that is as close to all points as possible",
+        "To create a complex curve through all points",
+        "To find the average of all points",
+        "To minimize the number of points on the line"
+      ],
+      "answer": "To draw a line that is as close to all points as possible"
+    },
+    {
+      "question": "What does the slope (b1) in the linear regression formula represent?",
+      "options": [
+        "The y-intercept of the line",
+        "The average of the input values",
+        "The rate of change in the output for each unit increase in the input",
+        "The maximum predicted output value"
+      ],
+      "answer": "The rate of change in the output for each unit increase in the input"
+    },
+    {
+      "question": "In the equation y = b0 + b1x, what does b0 represent?",
+      "options": [
+        "The slope of the line",
+        "The input value",
+        "The predicted output value",
+        "The y-intercept"
+      ],
+      "answer": "The y-intercept"
+    },
+    {
+      "question": "Which of the following best describes a linear regression model?",
+      "options": [
+        "A model that classifies data points into categories",
+        "A model that estimates a straight-line relationship between input and output",
+        "A model that predicts non-linear patterns in data",
+        "A model that clusters data points"
+      ],
+      "answer": "A model that estimates a straight-line relationship between input and output"
+    },
+    {
+      "question": "What does the model adjust during training to fit the data?",
+      "options": [
+        "The input values",
+        "The output values",
+        "The values of b0 and b1",
+        "The number of data points"
+      ],
+      "answer": "The values of b0 and b1"
+    },
+    {
+      "question": "What is the predicted price for a house with 4 rooms using the model y = 61.286x + 52.69?",
+      "options": [
+        "297.834",
+        "106.976",
+        "52.69",
+        "61.286"
+      ],
+      "answer": "297.834"
+    },
+    {
+      "question": "What does it mean to \"rotate\" the line during training?",
+      "options": [
+        "Change the y-intercept (b0)",
+        "Change the slope (b1)",
+        "Add more data points",
+        "Remove outliers"
+      ],
+      "answer": "Change the slope (b1)"
+    },
+    {
+      "question": "What does it mean to \"translate\" the line?",
+      "options": [
+        "Change the slope (b1)",
+        "Rotate the line",
+        "Fit a curve to the data",
+        "Adjust the y-intercept (b0)"
+      ],
+      "answer": "Adjust the y-intercept (b0)"
+    },
+    {
+      "question": "Why do we use error metrics in linear regression?",
+      "options": [
+        "To simplify the model",
+        "To visualize the data",
+        "To evaluate how well the model fits the data",
+        "To speed up training"
+      ],
+      "answer": "To evaluate how well the model fits the data"
+    },
+    {
+      "question": "What is Absolute Error?",
+      "options": [
+        "The sum of the squared distances between actual and predicted values",
+        "The average of the distances between actual and predicted values",
+        "The sum of the absolute distances between actual and predicted values",
+        "The maximum distance between actual and predicted values"
+      ],
+      "answer": "The sum of the absolute distances between actual and predicted values"
+    },
+    {
+      "question": "Why do we take the absolute value when calculating absolute error?",
+      "options": [
+        "To increase the error values",
+        "To simplify calculations",
+        "To find the average error",
+        "To avoid negative errors affecting the total distance"
+      ],
+      "answer": "To avoid negative errors affecting the total distance"
+    },
+    {
+      "question": "What are the steps to calculate absolute error?",
+      "options": [
+        "Measure distance, take absolute value, and sum the results",
+        "Square the distances and find the average",
+        "Find the maximum and minimum distances",
+        "Calculate the average of the actual values"
+      ],
+      "answer": "Measure distance, take absolute value, and sum the results"
+    },
+    {
+      "question": "What is Square Error?",
+      "options": [
+        "The sum of the absolute distances between actual and predicted values",
+        "The sum of the squared distances between actual and predicted values",
+        "The average of the absolute errors",
+        "The average of the predicted values"
+      ],
+      "answer": "The sum of the squared distances between actual and predicted values"
+    },
+    {
+      "question": "Why do we square the distances in square error?",
+      "options": [
+        "To make the errors easier to interpret",
+        "To reduce the impact of large errors",
+        "To ensure all distances are positive",
+        "To simplify the calculations"
+      ],
+      "answer": "To ensure all distances are positive"
+    },
+    {
+      "question": "What is Mean Absolute Error (MAE)?",
+      "options": [
+        "The sum of the absolute errors",
+        "The sum of the squared errors",
+        "The average of absolute errors",
+        "The average of the squared errors"
+      ],
+      "answer": "The average of absolute errors"
+    },
+    {
+      "question": "What is Mean Square Error (MSE)?",
+      "options": [
+        "The sum of the absolute errors",
+        "The average of squared errors",
+        "The sum of the squared errors",
+        "The average of the absolute errors"
+      ],
+      "answer": "The average of squared errors"
+    },
+    {
+      "question": "Why do we use Mean Error values like MAE or MSE?",
+      "options": [
+        "To find the maximum error",
+        "To minimize the error values",
+        "To compare models on datasets of different sizes",
+        "To calculate the total error"
+      ],
+      "answer": "To compare models on datasets of different sizes"
+    },
+    {
+      "question": "What is a downside of square error when predicting prices in $?",
+      "options": [
+        "It is difficult to calculate",
+        "The error is in squared dollars, which is hard to interpret",
+        "It underestimates the error",
+        "It is affected by negative values"
+      ],
+      "answer": "The error is in squared dollars, which is hard to interpret"
+    },
+    {
+      "question": "What is the advantage of using RMSE?",
+      "options": [
+        "It gives error in the same unit as the target variable",
+        "It gives error in squared units",
+        "It is less sensitive to outliers",
+        "It is easier to calculate"
+      ],
+      "answer": "It gives error in the same unit as the target variable"
+    },
+    {
+      "question": "If RMSE = $100, what does it mean?",
+      "options": [
+        "The model's average prediction is $100",
+        "The model's average prediction error is around $100",
+        "The model's predictions are all exactly $100",
+        "The model's maximum prediction error is $100"
+      ],
+      "answer": "The model's average prediction error is around $100"
+    },
+    {
+      "question": "Which of the following tools can be used to implement linear regression?",
+      "options": [
+        "Excel",
+        "Python with scikit-learn",
+        "Kaggle notebooks",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which of the following is NOT an assumption of linear regression?",
+      "options": [
+        "Linearity",
+        "Independence of errors",
+        "Homoscedasticity",
+        "Output variable must be categorical"
+      ],
+      "answer": "Output variable must be categorical"
+    },
+    {
+      "question": "What is multicollinearity in linear regression?",
+      "options": [
+        "When the output variable has multiple categories",
+        "When two or more predictors are highly correlated",
+        "When the error terms are not independent",
+        "When the data has outliers"
+      ],
+      "answer": "When two or more predictors are highly correlated"
+    },
+    {
+      "question": "What happens if multicollinearity is present?",
+      "options": [
+        "The model becomes more accurate",
+        "The model is easier to interpret",
+        "It becomes difficult to determine the effect of each predictor",
+        "The model trains faster"
+      ],
+      "answer": "It becomes difficult to determine the effect of each predictor"
+    },
+    {
+      "question": "What kind of relationship does linear regression assume between input and output?",
+      "options": [
+        "Linear",
+        "Non-linear",
+        "Exponential",
+        "Logarithmic"
+      ],
+      "answer": "Linear"
+    },
+    {
+      "question": "In the equation y = b0 + b1x1 + b2x2, what does b2 represent?",
+      "options": [
+        "The y-intercept",
+        "The effect of variable x1 on y, holding x2 constant",
+        "Effect of variable x2 on y, holding x1 constant",
+        "The predicted value of y"
+      ],
+      "answer": "Effect of variable x2 on y, holding x1 constant"
+    },
+    {
+      "question": "What is the role of b0 in a multiple linear regression model?",
+      "options": [
+        "It is the intercept where the line crosses the y-axis when all inputs are 0",
+        "It represents the slope of the line",
+        "It is the average of the input variables",
+        "It scales the input features"
+      ],
+      "answer": "It is the intercept where the line crosses the y-axis when all inputs are 0"
+    },
+    {
+      "question": "What happens to predictions if the model is underfitting?",
+      "options": [
+        "Predictions are too complex and inaccurate",
+        "Predictions are too simplistic and inaccurate",
+        "Predictions are very accurate",
+        "The model cannot make predictions"
+      ],
+      "answer": "Predictions are too simplistic and inaccurate"
+    },
+    {
+      "question": "What can help avoid overfitting in linear regression?",
+      "options": [
+        "Adding more features",
+        "Increasing model complexity",
+        "Using regularization techniques",
+        "Removing outliers"
+      ],
+      "answer": "Using regularization techniques"
+    },
+    {
+      "question": "Which metric is sensitive to outliers due to squaring?",
+      "options": [
+        "Mean Absolute Error (MAE)",
+        "Root Mean Squared Error (RMSE)",
+        "R-squared",
+        "Mean Squared Error (MSE)"
+      ],
+      "answer": "Mean Squared Error (MSE)"
+    },
+    {
+      "question": "Which error metric is more robust to outliers?",
+      "options": [
+        "Mean Squared Error (MSE)",
+        "Mean Absolute Error (MAE)",
+        "Root Mean Squared Error (RMSE)",
+        "R-squared"
+      ],
+      "answer": "Mean Absolute Error (MAE)"
+    },
+    {
+      "question": "What is the main benefit of RMSE over MSE?",
+      "options": [
+        "RMSE is less sensitive to outliers",
+        "RMSE is easier to calculate",
+        "RMSE gives errors in the same unit as the predicted output",
+        "RMSE is always smaller than MSE"
+      ],
+      "answer": "RMSE gives errors in the same unit as the predicted output"
+    },
+    {
+      "question": "If MAE = 10 and RMSE = 15, what does it imply?",
+      "options": [
+        "The model has no errors",
+        "There are some larger errors in predictions (outliers)",
+        "The model is underfitting",
+        "The model is overfitting"
+      ],
+      "answer": "There are some larger errors in predictions (outliers)"
+    },
+    {
+      "question": "What does an R² (R-squared) value of 0.85 indicate?",
+      "options": [
+        "The model explains 85% of the errors",
+        "The model has a low fit to the data",
+        "85% of the variance in y is explained by the model",
+        "The model is overfitting the data"
+      ],
+      "answer": "85% of the variance in y is explained by the model"
+    },
+    {
+      "question": "Which industry commonly uses linear regression?",
+      "options": [
+        "Image recognition",
+        "Natural language processing",
+        "Real estate for price estimation",
+        "Spam detection"
+      ],
+      "answer": "Real estate for price estimation"
+    },
+    {
+      "question": "Which is NOT a typical use case of linear regression?",
+      "options": [
+        "Predicting sales based on advertising spend",
+        "Estimating crop yield based on rainfall",
+        "Forecasting stock prices",
+        "Classifying spam emails"
+      ],
+      "answer": "Classifying spam emails"
+    },
+    {
+      "question": "What distinguishes multiple linear regression from simple linear regression?",
+      "options": [
+        "It predicts categorical outputs",
+        "Multiple inputs are used to predict the output",
+        "It uses non-linear relationships",
+        "It is used for clustering"
+      ],
+      "answer": "Multiple inputs are used to predict the output"
+    },
+    {
+      "question": "Which library in Python is commonly used for regression?",
+      "options": [
+        "Pandas",
+        "Numpy",
+        "Scikit-learn",
+        "Matplotlib"
+      ],
+      "answer": "Scikit-learn"
+    },
+    {
+      "question": "What function from scikit-learn is used to create a linear regression model?",
+      "options": [
+        "Regression()",
+        "LinearModel()",
+        "LinearRegression()",
+        "FitLine()"
+      ],
+      "answer": "LinearRegression()"
+    },
+    {
+      "question": "What is the .fit() function used for?",
+      "options": [
+        "To predict the output",
+        "Train the model using training data",
+        "Evaluate the model performance",
+        "Visualize the data"
+      ],
+      "answer": "Train the model using training data"
+    },
+    {
+      "question": "What does .predict() do in regression?",
+      "options": [
+        "Calculates the error",
+        "Fits the model to the data",
+        "Makes predictions using the trained model",
+        "Splits the data into training and testing sets"
+      ],
+      "answer": "Makes predictions using the trained model"
+    },
+    {
+      "question": "Why is it useful to normalize data before linear regression?",
+      "options": [
+        "To introduce non-linearity",
+        "To ensure all features are on the same scale",
+        "To reduce the number of features",
+        "To convert categorical data to numerical"
+      ],
+      "answer": "To ensure all features are on the same scale"
+    },
+    {
+      "question": "Which scaler is typically used in linear regression?",
+      "options": [
+        "MinMaxScaler",
+        "MaxAbsScaler",
+        "StandardScaler",
+        "RobustScaler"
+      ],
+      "answer": "StandardScaler"
+    },
+    {
+      "question": "What happens if we don’t scale features with large variance?",
+      "options": [
+        "The model becomes more accurate",
+        "Features with larger ranges may dominate the model",
+        "The model trains faster",
+        "The model is not affected"
+      ],
+      "answer": "Features with larger ranges may dominate the model"
+    },
+    {
+      "question": "What is Ridge Regression used for?",
+      "options": [
+        "To increase model complexity",
+        "To perform classification",
+        "To reduce overfitting by penalizing large coefficients",
+        "To add more features"
+      ],
+      "answer": "To reduce overfitting by penalizing large coefficients"
+    },
+    {
+      "question": "Which regularization technique can eliminate variables completely?",
+      "options": [
+        "Lasso Regression",
+        "Ridge Regression",
+        "Elastic Net Regression",
+        "Polynomial Regression"
+      ],
+      "answer": "Lasso Regression"
+    }
+    ,
+        {
+          "question": "What is the primary use of logistic regression in machine learning?",
+          "options": [
+            "Binary classification",
+            "Regression",
+            "Clustering",
+            "Dimensionality reduction"
+          ],
+          "answer": "Binary classification"
+        },
+        {
+          "question": "Which function is used in logistic regression?",
+          "options": [
+            "Linear function",
+            "Sigmoid function",
+            "Polynomial function",
+            "Step function"
+          ],
+          "answer": "Sigmoid function"
+        },
+        {
+          "question": "Why is logistic regression called “regression”?",
+          "options": [
+            "It predicts continuous values",
+            "It uses a linear equation",
+            "It extends linear regression but is used for classification",
+            "It minimizes error like linear regression"
+          ],
+          "answer": "It extends linear regression but is used for classification"
+        },
+        {
+          "question": "What is the range of the sigmoid function?",
+          "options": [
+            "-1 to 1",
+            "0 to infinity",
+            "-infinity to infinity",
+            "Between 0 and 1"
+          ],
+          "answer": "Between 0 and 1"
+        },
+        {
+          "question": "What does a logistic regression model output?",
+          "options": [
+            "Class label",
+            "Probability of a class",
+            "Regression coefficient",
+            "Error value"
+          ],
+          "answer": "Probability of a class"
+        },
+        {
+          "question": "What happens if the sigmoid output is greater than 0.5?",
+          "options": [
+            "The input is classified into Class 0",
+            "The input is discarded",
+            "The input is classified into Class 1",
+            "The input is classified randomly"
+          ],
+          "answer": "The input is classified into Class 1"
+        },
+        {
+          "question": "What is the shape of the sigmoid function?",
+          "options": [
+            "S-shaped curve",
+            "Straight line",
+            "Parabola",
+            "Step function"
+          ],
+          "answer": "S-shaped curve"
+        },
+        {
+          "question": "What does the sigmoid function convert?",
+          "options": [
+            "Probability into a class",
+            "Independent variable into a probability",
+            "Class into a probability",
+            "Probability into a class label"
+          ],
+          "answer": "Independent variable into a probability"
+        },
+        {
+          "question": "In logistic regression, the input to the sigmoid function is:",
+          "options": [
+            "A single feature",
+            "A random value",
+            "A linear combination of input features",
+            "The mean of the features"
+          ],
+          "answer": "A linear combination of input features"
+        },
+        {
+          "question": "What is binomial logistic regression used for?",
+          "options": [
+            "Classification with two possible outcomes",
+            "Regression with two variables",
+            "Classification with multiple outcomes",
+            "Clustering with two groups"
+          ],
+          "answer": "Classification with two possible outcomes"
+        },
+        {
+          "question": "Which situation is best modeled using multinomial logistic regression?",
+          "options": [
+            "Predicting binary outcomes (yes/no)",
+            "Estimating house prices",
+            "Diagnosing disease A, B, or C",
+            "Spam detection"
+          ],
+          "answer": "Diagnosing disease A, B, or C"
+        },
+        {
+          "question": "Multinomial logistic regression is used when:",
+          "options": [
+            "Target has exactly two categories",
+            "Target is continuous",
+            "Target has two ordered categories",
+            "Target has more than two categories without order"
+          ],
+          "answer": "Target has more than two categories without order"
+        },
+        {
+          "question": "Logistic regression can be applied to:",
+          "options": [
+            "Medical diagnosis (disease: yes/no)",
+            "Credit scoring",
+            "Marketing prediction",
+            "All of the above"
+          ],
+          "answer": "All of the above"
+        },
+        {
+          "question": "Which is an advantage of logistic regression?",
+          "options": [
+            "High complexity",
+            "Easy to implement and interpret",
+            "Handles non-linear relationships well",
+            "Requires large computational resources"
+          ],
+          "answer": "Easy to implement and interpret"
+        },
+        {
+          "question": "Which is a limitation of logistic regression?",
+          "options": [
+            "Cannot handle categorical data",
+            "Assumes linear relationship in log-odds",
+            "Output is not probabilistic",
+            "Difficult to implement"
+          ],
+          "answer": "Assumes linear relationship in log-odds"
+        },
+        {
+          "question": "Logistic regression works best when:",
+          "options": [
+            "The features are highly non-linear",
+            "There are many outliers",
+            "The relationship between features and output is roughly linear in the logit scale",
+            "Features are independent"
+          ],
+          "answer": "The relationship between features and output is roughly linear in the logit scale"
+        },
+        {
+          "question": "What does True Positive (TP) mean?",
+          "options": [
+            "Model incorrectly predicted a positive class",
+            "Model correctly predicted a negative class",
+            "Model correctly predicted a positive class",
+            "Model incorrectly predicted a negative class"
+          ],
+          "answer": "Model correctly predicted a positive class"
+        },
+        {
+          "question": "What is a False Negative (FN)?",
+          "options": [
+            "Model predicted positive, but actual was negative",
+            "Model correctly predicted negative",
+            "Model correctly predicted positive",
+            "Model predicted negative, but actual was positive"
+          ],
+          "answer": "Model predicted negative, but actual was positive"
+        },
+        {
+          "question": "What metric is best when false positives are costly?",
+          "options": [
+            "Recall",
+            "F1 Score",
+            "Precision",
+            "Accuracy"
+          ],
+          "answer": "Precision"
+        },
+        {
+          "question": "What metric is best when false negatives are costly?",
+          "options": [
+            "Precision",
+            "Accuracy",
+            "F1 Score",
+            "Recall"
+          ],
+          "answer": "Recall"
+        },
+        {
+          "question": "What is the formula for precision?",
+          "options": [
+            "TP / (TP + FN)",
+            "TP / (TP + FP)",
+            "TN / (TN + FP)",
+            "TN / (TN + FN)"
+          ],
+          "answer": "TP / (TP + FP)"
+        },
+        {
+          "question": "What is the formula for recall?",
+          "options": [
+            "TP / (TP + FP)",
+            "TN / (TN + FN)",
+            "TP / (TP + FN)",
+            "TN / (TN + FP)"
+          ],
+          "answer": "TP / (TP + FN)"
+        },
+        {
+          "question": "What does F1 score measure?",
+          "options": [
+            "Arithmetic mean of precision and recall",
+            "Geometric mean of precision and recall",
+            "Weighted average of precision and recall",
+            "Harmonic mean of precision and recall"
+          ],
+          "answer": "Harmonic mean of precision and recall"
+        },
+        {
+          "question": "When is the F1 score useful?",
+          "options": [
+            "When precision is more important",
+            "When both precision and recall are important",
+            "When recall is more important",
+            "When accuracy is high"
+          ],
+          "answer": "When both precision and recall are important"
+        },
+        {
+          "question": "What does accuracy measure?",
+          "options": [
+            "TP / Total predictions",
+            "TN / Total predictions",
+            "(TP + TN) / Total predictions",
+            "(FP + FN) / Total predictions"
+          ],
+          "answer": "(TP + TN) / Total predictions"
+        },
+        {
+          "question": "What are the four components of a confusion matrix?",
+          "options": [
+            "TP, FP, TN, FN",
+            "Accuracy, Precision, Recall, F1",
+            "Sensitivity, Specificity, Error Rate, AUC",
+            "MSE, RMSE, MAE, R-squared"
+          ],
+          "answer": "TP, FP, TN, FN"
+        },
+        {
+          "question": "What is a Type I error in binary classification?",
+          "options": [
+            "False Negative",
+            "False Positive",
+            "True Negative",
+            "True Positive"
+          ],
+          "answer": "False Positive"
+        },
+        {
+          "question": "What is a Type II error?",
+          "options": [
+            "True Positive",
+            "True Negative",
+            "False Positive",
+            "False Negative"
+          ],
+          "answer": "False Negative"
+        },
+        {
+          "question": "If TP = 4 and FP = 1, what is the precision?",
+          "options": [
+            "1 / 5 = 0.2",
+            "1 / 4 = 0.25",
+            "4 / (4 + 1) = 0.8",
+            "5 / 4 = 1.25"
+          ],
+          "answer": "4 / (4 + 1) = 0.8"
+        },
+        {
+          "question": "If TP = 4 and FN = 1, what is the recall?",
+          "options": [
+            "1 / 5 = 0.2",
+            "4 / (4 + 1) = 0.8",
+            "1 / 4 = 0.25",
+            "5 / 4 = 1.25"
+          ],
+          "answer": "4 / (4 + 1) = 0.8"
+        },
+        {
+          "question": "What is the F1 score when precision and recall are 0.8?",
+          "options": [
+            "0.64",
+            "0.9",
+            "0.7",
+            "0.8"
+          ],
+          "answer": "0.8"
+        },
+        {
+          "question": "If TP = 4 and TN = 4 out of 10 predictions, what is the accuracy?",
+          "options": [
+            "(4 + 4) / 10 = 0.8",
+            "(4 + 1) / 10 = 0.5",
+            "(1 + 1) / 10 = 0.2",
+            "(4 - 4) / 10 = 0"
+          ],
+          "answer": "(4 + 4) / 10 = 0.8"
+        },
+        {
+          "question": "What is the main mathematical basis of logistic regression?",
+          "options": [
+            "Linear interpolation",
+            "Log-odds transformation of probability",
+            "Polynomial fitting",
+            "Fourier transform"
+          ],
+          "answer": "Log-odds transformation of probability"
+        },
+        {
+          "question": "Which transformation is applied to linear regression in logistic regression?",
+          "options": [
+            "Exponential function",
+            "Logarithmic function",
+            "Sigmoid function",
+            "Square root function"
+          ],
+          "answer": "Sigmoid function"
+        },
+        {
+          "question": "What type of outcome variable does logistic regression predict?",
+          "options": [
+            "Categorical (mostly binary)",
+            "Continuous",
+            "Ordinal",
+            "Multi-dimensional"
+          ],
+          "answer": "Categorical (mostly binary)"
+        },
+        {
+          "question": "Why is logistic regression preferred over linear regression for classification?",
+          "options": [
+            "It is simpler to compute",
+            "It provides more accurate predictions",
+            "It can handle non-linear data",
+            "Because it restricts the output between 0 and 1"
+          ],
+          "answer": "Because it restricts the output between 0 and 1"
+        },
+        {
+          "question": "When is logistic regression not appropriate?",
+          "options": [
+            "When the target is binary",
+            "When the target is categorical",
+            "When the target is continuous",
+            "When the features are categorical"
+          ],
+          "answer": "When the target is continuous"
+        },
+        {
+          "question": "What is the output of the sigmoid function interpreted as?",
+          "options": [
+            "The class label",
+            "The probability of the positive class",
+            "The log-odds ratio",
+            "The decision boundary"
+          ],
+          "answer": "The probability of the positive class"
+        },
+        {
+          "question": "What does a threshold of 0.5 in logistic regression mean?",
+          "options": [
+            "Values below 0.5 are classified as Class 1",
+            "Values above 0.5 are classified as Class 1",
+            "Values are randomly assigned a class",
+            "The model is uncertain about the classification"
+          ],
+          "answer": "Values above 0.5 are classified as Class 1"
+        },
+        {
+          "question": "What if the predicted probability is exactly 0.5?",
+          "options": [
+            "It is classified as Class 1",
+            "It is classified as Class 0",
+            "It lies on the decision boundary",
+            "The model assigns a random class"
+          ],
+          "answer": "It lies on the decision boundary"
+        },
+        {
+          "question": "The logit in logistic regression is:",
+          "options": [
+            "The predicted probability",
+            "The odds ratio",
+            "The inverse of the sigmoid function",
+            "The natural log of the odds ratio"
+          ],
+          "answer": "The natural log of the odds ratio"
+        },
+        {
+          "question": "How is multinomial logistic regression different from binomial logistic regression?",
+          "options": [
+            "It predicts continuous outcomes",
+            "It uses a different loss function",
+            "It handles more than two unordered outcome classes",
+            "It is simpler to implement"
+          ],
+          "answer": "It handles more than two unordered outcome classes"
+        },
+        {
+          "question": "Which scenario would use multinomial logistic regression?",
+          "options": [
+            "Predicting if an email is spam or not spam",
+            "Predicting a person’s favorite color from a list",
+            "Predicting house prices",
+            "Predicting stock prices"
+          ],
+          "answer": "Predicting a person’s favorite color from a list"
+        },
+        {
+          "question": "When should you use binomial logistic regression?",
+          "options": [
+            "When the response variable has exactly two categories",
+            "When the response variable has more than two categories",
+            "When the response variable is continuous",
+            "When the features are continuous"
+          ],
+          "answer": "When the response variable has exactly two categories"
+        },
+        {
+          "question": "What does high precision and low recall indicate?",
+          "options": [
+            "The model is well-balanced",
+            "The model is very selective but misses many actual positives",
+            "The model has many false positives",
+            "The model has many false negatives"
+          ],
+          "answer": "The model is very selective but misses many actual positives"
+        },
+        {
+          "question": "What does high recall but low precision suggest?",
+          "options": [
+            "The model is very accurate",
+            "The model has few false positives",
+            "The model finds most positives but includes many false alarms",
+            "The model misses many actual positives"
+          ],
+          "answer": "The model finds most positives but includes many false alarms"
+        },
+        {
+          "question": "What does the F1 score penalize more?",
+          "options": [
+            "High accuracy",
+            "High precision",
+            "High recall",
+            "Large imbalance between precision and recall"
+          ],
+          "answer": "Large imbalance between precision and recall"
+        },
+        {
+          "question": "Which value increases if false negatives are high?",
+          "options": [
+            "Precision increases",
+            "Recall increases",
+            "Recall decreases",
+            "F1 score increases"
+          ],
+          "answer": "Recall decreases"
+        },
+        {
+          "question": "What does a high number of false positives imply?",
+          "options": [
+            "Precision will be low",
+            "Precision will be high",
+            "Recall will be low",
+            "Recall will be high"
+          ],
+          "answer": "Precision will be low"
+        },
+        {
+            "question": "If TN and TP are both high, what metric will likely also be high?",
+            "options": [
+              "Precision",
+              "Recall",
+              "F1 score",
+            "Accuracy"
+                ],
+                "answer": "Accuracy"
+                },
+              {
+                "question": "In credit scoring, what does logistic regression predict?",
+                "options": [
+                  "Customer income",
+                  "Whether a customer will default or not",
+                  "Customer spending habits",
+                  "Loan amount"
+                ],
+                "answer": "Whether a customer will default or not"
+              },
+              {
+                "question": "What makes logistic regression interpretable?",
+                "options": [
+                  "It is a black-box model",
+                  "It gives clear coefficients for feature impact",
+                  "It uses complex non-linear functions",
+                  "It handles high-dimensional data"
+                ],
+                "answer": "It gives clear coefficients for feature impact"
+              },
+              {
+                "question": "What happens if features are highly correlated?",
+                "options": [
+                  "The model becomes more stable",
+                  "The model's performance improves",
+                  "Coefficients become unstable (multicollinearity)",
+                  "The model is not affected"
+                ],
+                "answer": "Coefficients become unstable (multicollinearity)"
+              },
+              {
+                "question": "What assumption does logistic regression make about features?",
+                "options": [
+                  "They are normally distributed",
+                  "They are independent",
+                  "They have a non-linear relationship with the target",
+                  "Linearly related to the log odds of the target"
+                ],
+                "answer": "Linearly related to the log odds of the target"
+              },
+              {
+                "question": "What does logistic regression struggle with without transformation?",
+                "options": [
+                  "Categorical data",
+                  "Non-linear relationships",
+                  "High-dimensional data",
+                  "Binary classification"
+                ],
+                "answer": "Non-linear relationships"
+              },
+              {
+                "question": "Which regularization techniques can be applied to logistic regression?",
+                "options": [
+                  "Only L1",
+                  "Only L2",
+                  "L1 and L2",
+                  "None"
+                ],
+                "answer": "L1 and L2"
+              },
+              {
+                "question": "Logistic regression assumes:",
+                "options": [
+                  "Independence of observations",
+                  "Linearity of features",
+                  "Normality of errors",
+                  "Homoscedasticity"
+                ],
+                "answer": "Independence of observations"
+              },
+              {
+                "question": "What type of machine learning algorithm is a Support Vector Machine (SVM)?",
+                "options": [
+                  "Unsupervised learning algorithm",
+                  "Reinforcement learning algorithm",
+                  "Supervised learning algorithm",
+                  "Semi-supervised learning algorithm"
+                ],
+                "answer": "Supervised learning algorithm"
+              },
+              {
+                "question": "What is the primary use of SVMs?",
+                "options": [
+                  "Regression",
+                  "Classification",
+                  "Clustering",
+                  "Dimensionality reduction"
+                ],
+                "answer": "Classification"
+              },
+              {
+                "question": "What is the goal of an SVM?",
+                "options": [
+                  "To minimize errors",
+                  "To maximize accuracy",
+                  "To find the optimal hyperplane that best separates classes",
+                  "To cluster data points"
+                ],
+                "answer": "To find the optimal hyperplane that best separates classes"
+              },
+              {
+                "question": "What is a hyperplane in SVM?",
+                "options": [
+                  "A single point",
+                  "A line in 1D space",
+                  "A curve that separates classes",
+                  "A decision boundary that separates different classes"
+                ],
+                "answer": "A decision boundary that separates different classes"
+              },
+              {
+                "question": "In 2D space, what form does the hyperplane take?",
+                "options": [
+                  "A line",
+                  "A plane",
+                  "A curve",
+                  "A point"
+                ],
+                "answer": "A line"
+              },
+              {
+                "question": "What is the margin in SVM?",
+                "options": [
+                  "The average distance between data points",
+                  "The distance between the hyperplane and the nearest data points from each class",
+                  "The sum of distances between data points",
+                  "The area around the hyperplane"
+                ],
+                "answer": "The distance between the hyperplane and the nearest data points from each class"
+              },
+              {
+                "question": "What does maximizing the margin do?",
+                "options": [
+                  "Increases model complexity",
+                  "Leads to overfitting",
+                  "Improves model robustness and generalization",
+                  "Reduces accuracy"
+                ],
+                "answer": "Improves model robustness and generalization"
+              },
+              {
+                "question": "What are support vectors?",
+                "options": [
+                  "All data points",
+                  "Outlier data points",
+                  "Data points far from the hyperplane",
+                  "The data points closest to the hyperplane that influence its position"
+                ],
+                "answer": "The data points closest to the hyperplane that influence its position"
+              },
+              {
+                "question": "What is a Linear SVM used for?",
+                "options": [
+                  "When data is not separable",
+                  "When data is linearly separable",
+                  "For regression tasks",
+                  "For clustering tasks"
+                ],
+                "answer": "When data is linearly separable"
+              },
+              {
+                "question": "What is the equation of a hyperplane in linear SVM?",
+                "options": [
+                  "y = mx + c",
+                  "w · x + b = 0",
+                  "y = ax^2 + bx + c",
+                  "y = e^x"
+                ],
+                "answer": "w · x + b = 0"
+              },
+              {
+                "question": "What is the purpose of the kernel trick in SVM?",
+                "options": [
+                  "To simplify the data",
+                  "To reduce dimensionality",
+                  "To transform non-linearly separable data into higher dimensions for linear separation",
+                  "To speed up training"
+                ],
+                "answer": "To transform non-linearly separable data into higher dimensions for linear separation"
+              },
+              {
+                "question": "Why do we add an extra dimension in non-linear SVM?",
+                "options": [
+                  "To reduce complexity",
+                  "To separate overlapping classes in a higher-dimensional space",
+                  "To visualize the data better",
+                  "To increase training speed"
+                ],
+                "answer": "To separate overlapping classes in a higher-dimensional space"
+              },
+              {
+                "question": "What is a Hard Margin in SVM?",
+                "options": [
+                  "A hyperplane with a large margin",
+                  "A hyperplane that allows some misclassifications",
+                  "A hyperplane that perfectly separates linearly separable data",
+                  "A hyperplane with a small margin"
+                ],
+                "answer": "A hyperplane that perfectly separates linearly separable data"
+              },
+              {
+                "question": "What is a Soft Margin in SVM?",
+                "options": [
+                  "A hyperplane with no margin",
+                  "A hyperplane that perfectly separates data",
+                  "Allows some misclassifications to handle noisy or overlapping data",
+                  "A hyperplane with a fixed margin"
+                ],
+                "answer": "Allows some misclassifications to handle noisy or overlapping data"
+              },
+              {
+                "question": "When is a soft margin preferred?",
+                "options": [
+                  "When data is perfectly separable",
+                  "When speed is critical",
+                  "When accuracy is crucial",
+                  "When data has noise or classes overlap"
+                ],
+                "answer": "When data has noise or classes overlap"
+              },
+              {
+                "question": "What is the goal of Support Vector Regression (SVR)?",
+                "options": [
+                  "To classify data points",
+                  "To fit a function that deviates from actual values within a defined threshold",
+                  "To cluster data",
+                  "To reduce dimensionality"
+                ],
+                "answer": "To fit a function that deviates from actual values within a defined threshold"
+              },
+              {
+                "question": "What is the “ϵ-tube” in SVR?",
+                "options": [
+                  "A measure of error",
+                  "A margin around the prediction line where no penalty is given for errors",
+                  "A type of kernel function",
+                  "A method for outlier detection"
+                ],
+                "answer": "A margin around the prediction line where no penalty is given for errors"
+              },
+              {
+                "question": "How does SVR differ from SVM for classification?",
+                "options": [
+                  "It uses a different kernel",
+                  "It maximizes the margin",
+                  "It predicts continuous values instead of classes",
+                  "It handles non-linear data"
+                ],
+                "answer": "It predicts continuous values instead of classes"
+              },
+              {
+                "question": "Which of the following is a key advantage of SVM?",
+                "options": [
+                  "Simplicity",
+                  "Easy to interpret",
+                  "Effective in high-dimensional spaces",
+                  "Fast training"
+                ],
+                "answer": "Effective in high-dimensional spaces"
+              },
+              {
+                "question": "Why is SVM less likely to overfit?",
+                "options": [
+                  "It uses all data points",
+                  "It focuses only on support vectors and margin maximization",
+                  "It has a simple structure",
+                  "It uses linear functions"
+                ],
+                "answer": "It focuses only on support vectors and margin maximization"
+              },
+              {
+                "question": "What is a major drawback of SVMs?",
+                "options": [
+                  "Low accuracy",
+                  "Easy to overfit",
+                  "Computationally intensive for large datasets",
+                  "Cannot handle non-linear data"
+                ],
+                "answer": "Computationally intensive for large datasets"
+              },
+              {
+                "question": "Which factor significantly affects SVM performance?",
+                "options": [
+                  "Number of features",
+                  "Size of the dataset",
+                  "Choice of regularization parameter",
+                  "Choice of kernel function"
+                ],
+                "answer": "Choice of kernel function"
+              },
+              {
+                "question": "Why might SVM perform poorly on noisy data?",
+                "options": [
+                  "It is too simple",
+                  "It is sensitive to outliers",
+                  "It tries to find strict margins that may be affected by outliers",
+                  "It cannot handle high-dimensional data"
+                ],
+                "answer": "It tries to find strict margins that may be affected by outliers"
+              },
+              {
+                "question": "Which of the following is an SVM application?",
+                "options": [
+                  "Spam filtering",
+                  "Image compression",
+                  "Facial recognition",
+                  "Stock price prediction"
+                ],
+                "answer": "Facial recognition"
+              },
+              {
+                "question": "How is SVM used in text classification?",
+                "options": [
+                  "By counting words",
+                  "By categorizing documents based on their content",
+                  "By analyzing sentiment",
+                  "By translating text"
+                ],
+                "answer": "By categorizing documents based on their content"
+              },
+              {
+                "question": "In bioinformatics, SVM is used for:",
+                "options": [
+                  "Image analysis",
+                  "Network design",
+                  "Classifying genes and proteins",
+                  "Financial modeling"
+                ],
+                "answer": "Classifying genes and proteins"
+              },
+              {
+                "question": "SVM can be applied to finance for:",
+                "options": [
+                  "Fraud detection",
+                  "Risk assessment",
+                  "Time-series forecasting (e.g., stock prices)",
+                  "All of the above"
+                ],
+                "answer": "All of the above"
+              },
+              {
+                "question": "What defines a “support vector” in SVM?",
+                "options": [
+                  "A vector with maximum length",
+                  "A vector orthogonal to the hyperplane",
+                  "A training sample closest to the hyperplane",
+                  "A vector representing the mean of the data"
+                ],
+                "answer": "A training sample closest to the hyperplane"
+              },
+              {
+                "question": "Why are support vectors important?",
+                "options": [
+                  "They speed up training",
+                  "They simplify the model",
+                  "They determine the decision boundary's position and orientation",
+                  "They reduce noise in the data"
+                ],
+                "answer": "They determine the decision boundary's position and orientation"
+              },
+              {
+                "question": "What is the effect of removing a non-support vector from the training data?",
+                "options": [
+                  "The hyperplane shifts significantly",
+                  "The model becomes less accurate",
+                  "The model becomes more accurate",
+                  "No impact on the hyperplane"
+                ],
+                "answer": "No impact on the hyperplane"
+              },
+              {
+                "question": "Which of the following is not a core component in SVM formulation?",
+                "options": [
+                  "Weight vector",
+                  "Bias term",
+                  "Margin",
+                  "Learning rate"
+                ],
+                "answer": "Learning rate"
+              },
+              {
+                "question": "In the equation w · x + b = 0, what does w represent?",
+                "options": [
+                  "Bias term",
+                  "Weight vector that defines the orientation of the hyperplane",
+                  "Input vector",
+                  "Output value"
+                ],
+                "answer": "Weight vector that defines the orientation of the hyperplane"
+              },
+              {
+                "question": "In the SVM objective function, what is maximized?",
+                "options": [
+                  "Accuracy",
+                  "Error",
+                  "Margin between classes",
+                  "Number of support vectors"
+                ],
+                "answer": "Margin between classes"
+              },
+              {
+                "question": "Which constraint ensures correct classification in a hard-margin SVM?",
+                "options": [
+                  "yᵢ(w · xᵢ + b) = 0",
+                  "yᵢ(w · xᵢ + b) ≥ 1",
+                  "yᵢ(w · xᵢ + b) ≤ 1",
+                  "w · x + b = 0"
+                ],
+                "answer": "yᵢ(w · xᵢ + b) ≥ 1"
+              },
+              {
+                "question": "What is the kernel trick used for?",
+                "options": [
+                  "Reducing the number of features",
+                  "Simplifying the model",
+                  "Visualizing data in high dimensions",
+                  "Mapping low-dimensional data into higher dimensions without explicitly computing the coordinates"
+                ],
+                "answer": "Mapping low-dimensional data into higher dimensions without explicitly computing the coordinates"
+              },
+              {
+                "question": "Which kernel is most commonly used in non-linear SVMs?",
+                "options": [
+                  "Linear kernel",
+                  "Polynomial kernel",
+                  "Radial Basis Function (RBF)",
+                  "Sigmoid kernel"
+                ],
+                "answer": "Radial Basis Function (RBF)"
+              },
+              {
+                "question": "What does a linear kernel assume about data?",
+                "options": [
+                  "It is non-linearly separable",
+                  "It can be separated by a straight line or plane",
+                  "It has complex patterns",
+                  "It requires high-dimensional mapping"
+                ],
+                "answer": "It can be separated by a straight line or plane"
+              },
+              {
+                "question": "Which of the following kernels is suitable for string or sequence data?",
+                "options": [
+                  "Polynomial kernel",
+                  "RBF kernel",
+                  "Linear kernel",
+                  "String kernel"
+                ],
+                "answer": "String kernel"
+              },
+              {
+                "question": "What happens when you decrease the regularization parameter C in soft-margin SVM?",
+                "options": [
+                  "The margin becomes narrower",
+                  "The margin becomes wider, allowing more misclassifications",
+                  "The model becomes more complex",
+                  "The model's accuracy increases"
+                ],
+                "answer": "The margin becomes wider, allowing more misclassifications"
+              },
+              {
+                "question": "Increasing the parameter C results in:",
+                "options": [
+                  "Wider margin and more misclassifications",
+                  "Tighter margin and fewer misclassifications",
+                  "Simpler model",
+                  "Reduced training time"
+                ],
+                "answer": "Tighter margin and fewer misclassifications"
+              },
+              {
+                "question": "In SVR, what does the ϵ-tube represent?",
+                "options": [
+                  "The range of predicted values",
+                  "The kernel function",
+                  "Tolerance range within which errors are not penalized",
+                  "The regularization parameter"
+                ],
+                "answer": "Tolerance range within which errors are not penalized"
+              },
+              {
+                "question": "What is the objective in SVR?",
+                "options": [
+                  "Maximize the margin",
+                  "Minimize prediction error while keeping model complexity low",
+                  "Maximize the number of support vectors",
+                  "Minimize training time"
+                ],
+                "answer": "Minimize prediction error while keeping model complexity low"
+              },
+              {
+                "question": "Which model is best for continuous output with margin-based learning?",
+                "options": [
+                  "Support Vector Regression (SVR)",
+                  "Logistic Regression",
+                  "Linear SVM",
+                  "Decision Trees"
+                ],
+                "answer": "Support Vector Regression (SVR)"
+              },
+              {
+                "question": "What does regularization in SVM help control?",
+    "options": [
+      "Training speed",
+      "Model complexity",
+      "Overfitting",
+      "Trade-off between margin size and classification error"
+    ],
+    "answer": "Trade-off between margin size and classification error"
+  },
+  {
+    "question": "In high-dimensional spaces, what advantage does SVM offer?",
+    "options": [
+      "Simpler computation",
+      "Reduced memory usage",
+      "Efficient performance without overfitting",
+      "Better visualization"
+    ],
+    "answer": "Efficient performance without overfitting"
+  },
+  {
+    "question": "Why is SVM effective in text classification?",
+    "options": [
+      "Text data is low-dimensional",
+      "Text data tends to be high-dimensional and sparse",
+      "SVM automatically extracts features",
+      "SVM is language-independent"
+    ],
+    "answer": "Text data tends to be high-dimensional and sparse"
+  },
+  {
+    "question": "Which property of SVM helps it handle small sample sizes well?",
+    "options": [
+      "It uses all data points",
+      "It averages data points",
+      "It ignores outliers",
+      "It relies only on support vectors, not the entire dataset"
+    ],
+    "answer": "It relies only on support vectors, not the entire dataset"
+  },
+  {
+    "question": "Which domain does NOT typically use SVM?",
+    "options": [
+      "Bioinformatics",
+      "Finance",
+      "Image compression",
+      "Text categorization"
+    ],
+    "answer": "Image compression"
+  },
+  {
+    "question": "In which case would SVM likely perform poorly?",
+    "options": [
+      "Small datasets with clear separation",
+      "Very large datasets with noisy labels",
+      "High-dimensional data",
+      "Linearly separable data"
+    ],
+    "answer": "Very large datasets with noisy labels"
+  },
+  {
+    "question": "Which type of task best suits SVM over deep learning?",
+    "options": [
+      "Image recognition",
+      "Natural language processing",
+      "Speech recognition",
+      "Small datasets with clear margin boundaries"
+    ],
+    "answer": "Small datasets with clear margin boundaries"
+  },
+  {
+    "question": "Which scenario benefits most from non-linear SVMs?",
+    "options": [
+      "When data classes overlap in input space",
+      "When data is linearly separable",
+      "When speed is critical",
+      "When data has no noise"
+    ],
+    "answer": "When data classes overlap in input space"
+  },
+  {
+    "question": "What happens if the chosen kernel is inappropriate?",
+    "options": [
+      "The model will overfit",
+      "The model will underfit and perform poorly",
+      "The model will train faster",
+      "The model will automatically adjust"
+    ],
+    "answer": "The model will underfit and perform poorly"
+  }
+]
